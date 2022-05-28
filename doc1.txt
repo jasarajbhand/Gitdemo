@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 helo
+=======
+hellow jassi
+I am good
+>>>>>>> 341b5c5ce80bc1aa92114cb3a8bf0c9eebf79e93
